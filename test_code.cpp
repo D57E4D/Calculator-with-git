@@ -18,5 +18,8 @@ int main()
     int product = num1 * num2;
     cout << "Product: " << product << endl;
 
+    double quotient = static_cast<double>(num1) / num2;
+    cout << "Quotient: " << quotient << endl;
+
     return 0;
 }
