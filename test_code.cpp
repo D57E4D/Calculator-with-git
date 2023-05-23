@@ -15,5 +15,8 @@ int main()
     int difference = num1 - num2;
     cout << "Difference: " << difference << endl;
 
+    int product = num1 * num2;
+    cout << "Product: " << product << endl;
+
     return 0;
 }
