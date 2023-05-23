@@ -12,5 +12,8 @@ int main()
     int sum = num1 + num2;
     cout << "Sum: " << sum << endl;
 
+    int difference = num1 - num2;
+    cout << "Difference: " << difference << endl;
+
     return 0;
 }
