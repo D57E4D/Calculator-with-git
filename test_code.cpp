@@ -20,4 +20,6 @@ int main()
 
     double quotient = static_cast<double>(num1) / num2;
     cout << "Quotient: " << quotient << endl;
+
+    return 0;
 }
